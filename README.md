@@ -1,2 +1,10 @@
-# wp108b
-108上學期網頁設計課程
+# 網頁設計課程 -- 習題專案
+
+欄位 | 內容
+-----|--------
+學期 | 108 學年度下學期
+學生 |  xxx
+學號末兩碼 | xx
+教師 | [陳鍾誠](https://misavo.com/blog/%E9%99%B3%E9%8D%BE%E8%AA%A0)
+學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
+課程首頁 | [網頁設計](https://misavo.com/blog/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E8%AA%B2%E7%A8%8B/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88)
